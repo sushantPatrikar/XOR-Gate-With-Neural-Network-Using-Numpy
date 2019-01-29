@@ -2,10 +2,10 @@
 XOR gate which predicts the output using Neural Network.
 ### Python v3.6.5
 ## Libraries used:
-1. Numpy
-2. Tkinter
-3. Math
-4. Random
+1. numpy
+2. tkinter
+3. math
+4. random
 ## Purpose
 This project can be used for educational purposes as it gives user the freedom to change learning rate, number of neurons in hidden layer and number of epochs. User can compare the results after changing these values.
 ## Working
@@ -21,7 +21,7 @@ After changing them, click on 'Train' button, which trains your neural network t
 ![image](https://user-images.githubusercontent.com/40419750/51910625-c6c0e200-23f5-11e9-824d-4d2cd70430b0.png)
 
 Once the 'Training Complete' comes on the screen, the neural network is ready to predict the results.
-Input X & Y, and then click on the 'Predict' button, the predicted result will be shown on Answer box, which you can compare with the expected answer.
+Input X & Y, and then click on the 'Predict' button, the predicted result will be shown on the Answer box, which you can compare with the expected answer.
 
 ![image](https://user-images.githubusercontent.com/40419750/51912607-c2e38e80-23fa-11e9-9e14-ccf5465b26d3.png)
 
