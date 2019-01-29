@@ -138,7 +138,6 @@ class Gui:
         self.hiddenL = self.sigmoid_v(self.hiddenL + self.inhiB)
         self.outputL = self.hioW.dot(self.hiddenL)
         self.outputL = self.sigmoid_v(self.outputL + self.hioB)
-        # print(self.outputL.item())
         self.ans.set((self.outputL.item()))
         if (self.entryXVar.get() == self.entryYVar.get()):
             target = 0
@@ -158,7 +157,6 @@ class Gui:
                 Y = random.randrange(0, 2)
                 self.backpropagation(X, Y)
         self.training.set('Training Complete')
-        print('Training complete')
 
 
 Gui(root)
