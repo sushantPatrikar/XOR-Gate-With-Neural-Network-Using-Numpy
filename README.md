@@ -1,4 +1,8 @@
 # XOR-With-Numpy-Neural-Network
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)
+![stars](https://img.shields.io/github/stars/sushantPatrikar/XOR-Gate-With-Neural-Network-Using-Numpy.svg)
+
 XOR gate which predicts the output using Neural Network.
 ### Python v3.6.5
 ## Libraries used:
