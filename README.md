@@ -49,7 +49,7 @@ Input X & Y, and then click on the 'Predict' button, the predicted result will b
 </p>
 
 
-<p>Excited to see Pull Requests coming from your side!</p>
+<p>Excited to view Pull Requests coming from your side!</p>
 
 <p>For more information, you can visit my <a href="https://sushantpatrikar.github.io/flappybirdAI.html"> website</a>.</p>
 
