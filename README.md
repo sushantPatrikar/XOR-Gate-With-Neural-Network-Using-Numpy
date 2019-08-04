@@ -1,10 +1,24 @@
-# XOR-With-Numpy-Neural-Network
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)
-![stars](https://img.shields.io/github/stars/sushantPatrikar/XOR-Gate-With-Neural-Network-Using-Numpy.svg)
-![forks](https://img.shields.io/github/forks/sushantPatrikar/XOR-Gate-With-Neural-Network-Using-Numpy.svg?style=popout)
+<p align="center">
+  <a href="" rel="noopener">
+ <img height=200px width=200px src="./img/neural_network.svg.png" alt="NeuralNetwork-logo"></a>
+</p>
+<h1 align="center">XOR-With-Numpy-Neural-Network</h1>
 
-XOR gate which predicts the output using Neural Network.
+<div align="center">
+<img src="https://img.shields.io/github/license/sushantPatrikar/XOR-Gate-With-Neural-Network-Using-Numpy">	
+<img src="https://www.codefactor.io/repository/github/sushantpatrikar/xor-gate-with-neural-network-using-numpy">
+<img src="https://img.shields.io/github/issues-pr/sushantPatrikar/XOR-Gate-With-Neural-Network-Using-Numpy">
+<img src="https://img.shields.io/github/stars/sushantPatrikar/XOR-Gate-With-Neural-Network-Using-Numpy">
+<img src="https://img.shields.io/github/forks/sushantPatrikar/XOR-Gate-With-Neural-Network-Using-Numpy">
+<img src="https://img.shields.io/github/issues/sushantPatrikar/XOR-Gate-With-Neural-Network-Using-Numpy">
+<img src="https://img.shields.io/badge/PRs-welcome-informational">
+</div>
+
+<h4 align="center">XOR gate which predicts the output using Neural Network.</h4>
+<hr>
+
+
+
 ### Python v3.6.5
 ## Libraries used:
 1. numpy
