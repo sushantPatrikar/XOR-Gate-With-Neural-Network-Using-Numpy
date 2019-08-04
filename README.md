@@ -6,7 +6,7 @@
 
 <div align="center">
 <img src="https://img.shields.io/github/license/sushantPatrikar/XOR-Gate-With-Neural-Network-Using-Numpy">	
-<img src="https://www.codefactor.io/repository/github/sushantpatrikar/xor-gate-with-neural-network-using-numpy">
+<img src="https://www.codefactor.io/repository/github/sushantpatrikar/xor-gate-with-neural-network-using-numpy/badge/master">
 <img src="https://img.shields.io/github/issues-pr/sushantPatrikar/XOR-Gate-With-Neural-Network-Using-Numpy">
 <img src="https://img.shields.io/github/stars/sushantPatrikar/XOR-Gate-With-Neural-Network-Using-Numpy">
 <img src="https://img.shields.io/github/forks/sushantPatrikar/XOR-Gate-With-Neural-Network-Using-Numpy">
